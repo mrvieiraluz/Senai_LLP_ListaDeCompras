@@ -1,0 +1,8 @@
+com\gestaocompras\model\Item$Unidade.class
+com\gestaocompras\ui\ConsoleUI.class
+com\gestaocompras\model\Item.class
+com\gestaocompras\model\Lista.class
+com\gestaocompras\Main.class
+com\gestaocompras\model\ItemComprado.class
+com\gestaocompras\service\ListaRepository.class
+com\gestaocompras\service\ListaService.class
